@@ -1,6 +1,6 @@
 ## 📇 Como estou dirigindo?
 
-#Python #QA #Mapeamento #FullStack #Javascript #SoftwareLivre
+#Python #QA #Mapeamento #FullStack #Javascript #Scrum #SoftwareLivre
 
 🎓 Cursei quatro semestres de Design e sete de Cinema na UFSC - Universidade Federal de Santa Catarina.
 
