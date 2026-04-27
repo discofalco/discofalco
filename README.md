@@ -18,8 +18,6 @@ Através de cursos online, procuro aprender Javascript e linguagens Fullstack.<b
 A área de Quality Assurance me atrai, por conta do trabalho com jogos e o processo de design numa equipe de produção.<br>
 Estou no primeiro semestre do curso técnico de Desenvolvimento de Sistemas EAD, da ETEC Martin Luther King.
 
-
-
 <!-- **discofalco/discofalco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
 - Apresentação pessoal
 - Ícones de tecnologias (Python, HTML, CSS)
