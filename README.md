@@ -13,7 +13,7 @@ Atuo como Jovem Monitor Cultural da equipe de produção do Centro Cultural São
 No meu território sou Agente Territorial, e trabalho mapeando artistas, agentes, espaços e suas programações.<br>
 Gostaria de estudar mais os códigos que constroem o sistema de Mapas Culturais, projeto do coletivo Hacklab.
 
-💾 Desde 2023 quero aprofundar meus conhecimentos em programação!<br>
+💾 Desde 2023 aprofundo meus conhecimentos em programação!<br>
 Através de cursos online, procuro aprender Javascript e linguagens Fullstack.<br>
 A área de Quality Assurance me atrai, por conta do trabalho com jogos e o processo de design numa equipe de produção.<br>
 Estou no primeiro semestre do curso técnico de Desenvolvimento de Sistemas EAD, da ETEC Martin Luther King.
